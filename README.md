@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there!
 
 I'm Luna. I'm an Administration student with a passion for programming and web development.
 
